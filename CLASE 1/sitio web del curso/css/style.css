@@ -1,0 +1,51 @@
+body{
+	background: #000000;
+	font-size: 16px;
+	color: #ffffff
+}
+
+header{
+	background: #ffffff;
+	height: 80px;
+}
+
+header h1{
+	font-size: 1.5rem; 
+	color: #000000;
+	margin:24px 0px 0px 13px;
+	float: left;
+	 }
+
+
+.img-logo img{
+	height: 80px;
+	float: left;
+}
+
+#menu{
+	float: right;
+	margin:13px 16px 0 0;
+}
+
+
+#menu li{display:inline; margin-right: 14px;}
+
+#menu a{ color: #000;
+	text-decoration: none
+ }
+
+
+ #menu a:hover{text-decoration: underline; color: #bf00ff}
+
+
+ #rubrosDeClase article{
+ 	float: left;
+ 	background: #fff;
+ 	margin: 10px;
+
+ }
+
+#rubrosDeClase article img{width: 100px}
+
+.imagenGrande {width: 80px}
+

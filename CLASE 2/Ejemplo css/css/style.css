@@ -1,0 +1,8 @@
+.contenedor{position: relative; width: 500px; background: #000}
+.objeto{
+	background:#345678;
+	width: 80px;
+	height: 80px;
+	display: block;
+	margin: 3px
+}
